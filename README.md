@@ -1,6 +1,4 @@
-Sure, here's a personal developer profile for your GitHub README:
-
-"Hello, I'm a software developer with a strong background in C#, Python, SQL, PowerBI, Azure Data Factory, and Azure DevOps. 
+Hello, I'm a software developer with a strong background in C#, Python, SQL, PowerBI, Azure Data Factory, and Azure DevOps. 
 I have a deep understanding of the Microsoft ecosystem and have spent countless hours crafting efficient, scalable, 
 and robust solutions using these technologies.
 
